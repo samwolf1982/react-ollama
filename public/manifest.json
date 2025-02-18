@@ -1,0 +1,15 @@
+{
+  "short_name": "React Ollama",
+  "name": "Ollama Graphical User Interface by React",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "256x256",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#007aff",
+  "background_color": "#1C1C1E"
+}
