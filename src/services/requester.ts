@@ -2,7 +2,6 @@ import { Messages, ModelResponse } from '@/entities/messages'
 
 
 export default async function requester (
-    g
   modelUrl : string,
   modelName : string,
   messages : Messages,
