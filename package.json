@@ -1,6 +1,6 @@
 {
   "name": "ollama-gui-reactjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Ollama Graphical User Interface",
   "author": "samwolf1982",
   "private": false,
